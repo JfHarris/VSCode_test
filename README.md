@@ -6,3 +6,6 @@ Using lstrip, rstrip, and strip to remove whitespace
 List creation and manipulation
     *bicycles.py
     *motorcycles.py
+
+Text manipulation
+    *name.py
