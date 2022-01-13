@@ -9,3 +9,6 @@ List creation and manipulation
 
 Text manipulation
     *name.py
+    *apostrophe.py
+    *birthday.py
+    *hello_world.py
